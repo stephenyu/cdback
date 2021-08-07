@@ -1,5 +1,5 @@
 [package]
-name = "cdb"
+name = "cdback"
 version = "0.1.0"
 authors = ["stephenyu <s.yu@less3.com>"]
 license = "MIT OR Apache-2.0"
