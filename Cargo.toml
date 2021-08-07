@@ -2,6 +2,8 @@
 name = "cdb"
 version = "0.1.0"
 authors = ["stephenyu <s.yu@less3.com>"]
+license = "MIT OR Apache-2.0"
+description = "Search upwards through the directories for a specific directory"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
